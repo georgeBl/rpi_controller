@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 
 // importing components
 import Controller from './Controller.js';
-import LiveStats from './LiveStats.js';
+import LiveStats from './Livestats.js';
 
 import $ from 'jquery';
 
